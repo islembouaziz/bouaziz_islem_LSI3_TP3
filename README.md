@@ -25,25 +25,25 @@ L’application a pour but de mettre en pratique les notions de :
 
 ### Écran principal de l’application
 
-![Écran principal](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225140.png)
+![Capture 1 - Écran principal](capture/cap1.png)
 
 ### Saisie et consultation
 
-![Saisie de l’âge et du jeûne](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225232.png)
+![Capture 2 - Sélection de l’âge et du jeûne](capture/cap2.png)
 
-![Saisie de la mesure](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225247.png)
+![Capture 3 - Saisie de la valeur mesurée](capture/cap3.png)
 
-![Affichage d’un résultat](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225259.png)
+![Capture 4 - Résultat affiché](capture/cap4.png)
 
 ### Autres captures du projet
 
-![Vue d’ensemble de l’interface](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225310.png)
+![Capture 5 - Vue globale de l’interface](capture/cap5.png)
 
-![Interface de consultation finale](capture/Capture%20d%27%C3%A9cran%202026-11-11%20225325.png)
+![Capture 6 - Consultation finale](capture/cap6.png)
 
-![Mise en page dans Android Studio](capture/layout.png)
+![Capture 7 - Interface dans Android Studio](capture/interface.png)
 
-![Capture de référence](capture/Capture%20d%27%C3%A9cran%202026-10-31%20133241.png)
+![Capture 8 - Mise en page XML](capture/layout-studio.png)
 
 ## Structure du projet
 
